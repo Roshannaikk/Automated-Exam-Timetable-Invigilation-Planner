@@ -1,0 +1,6 @@
+{
+  "Name": "AutomatedExamTimetableInvigilationPlanner",
+  "ProjectType": "Process",
+  "Description": "Automated examination timetable and invigilation planning system using UiPath.",
+  "MainFile": "Main.xaml"
+}
