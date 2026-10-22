@@ -1,4 +1,4 @@
-# Automated-Exam-Timetable-Invigilation-Planner
+# Automated-Exam-Timetable-Invigilation-Planner Using UiPath
 Automate exam timetable generation, room allocation, faculty invigilation scheduling, and conflict detection using UiPath RPA and Excel.
 An automated examination scheduling solution built using **UiPath RPA and Microsoft Excel**. The project streamlines exam timetable generation, room allocation, faculty invigilation assignment, and scheduling conflict detection.
 
